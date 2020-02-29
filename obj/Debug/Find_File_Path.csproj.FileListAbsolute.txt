@@ -1,0 +1,28 @@
+E:\Sw api\file path finder\Find_File_Path\bin\Debug\Find_File_Path.exe.config
+E:\Sw api\file path finder\Find_File_Path\bin\Debug\Find_File_Path.exe
+E:\Sw api\file path finder\Find_File_Path\bin\Debug\Find_File_Path.pdb
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\Find_File_Path.csprojAssemblyReference.cache
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\MainWindow.g.cs
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\App.g.cs
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\Find_File_Path_MarkupCompile.cache
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\Find_File_Path_MarkupCompile.lref
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\MainWindow.baml
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\Find_File_Path.g.resources
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\Find_File_Path.Properties.Resources.resources
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\Find_File_Path.csproj.GenerateResource.cache
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\Find_File_Path.exe
+E:\Sw api\file path finder\Find_File_Path\obj\Debug\Find_File_Path.pdb
+E:\github\projects\Find_File_Path\bin\Debug\Find_File_Path.exe.config
+E:\github\projects\Find_File_Path\bin\Debug\Find_File_Path.exe
+E:\github\projects\Find_File_Path\bin\Debug\Find_File_Path.pdb
+E:\github\projects\Find_File_Path\obj\Debug\Find_File_Path.csprojAssemblyReference.cache
+E:\github\projects\Find_File_Path\obj\Debug\MainWindow.g.cs
+E:\github\projects\Find_File_Path\obj\Debug\App.g.cs
+E:\github\projects\Find_File_Path\obj\Debug\Find_File_Path_MarkupCompile.cache
+E:\github\projects\Find_File_Path\obj\Debug\Find_File_Path_MarkupCompile.lref
+E:\github\projects\Find_File_Path\obj\Debug\MainWindow.baml
+E:\github\projects\Find_File_Path\obj\Debug\Find_File_Path.g.resources
+E:\github\projects\Find_File_Path\obj\Debug\Find_File_Path.Properties.Resources.resources
+E:\github\projects\Find_File_Path\obj\Debug\Find_File_Path.csproj.GenerateResource.cache
+E:\github\projects\Find_File_Path\obj\Debug\Find_File_Path.exe
+E:\github\projects\Find_File_Path\obj\Debug\Find_File_Path.pdb
